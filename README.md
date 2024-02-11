@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://esakkibalaji.github.io/]
 
-- 💬 Ask me about **Front-End Develpement**
+- 💬 Ask me about **Front-End Development**
 
 - 📫 How to reach me **esakkibalajim2001@gmail.com**
 
