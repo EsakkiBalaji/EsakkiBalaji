@@ -1,10 +1,8 @@
 
-<img align="right" alt="programming" width="400" src="https://github.com/EsakkiBalaji/EsakkiBalaji/assets/152501485/2b02067c-b524-46ae-948f-32ce4b43232e">
 
-<h1 align="left">Hi 👋, I'm Esakki Balaji</h1> 
-
+<h1 align="left">Hi 👋, I'm Esakki Balaji</h1>
 <h3 align="left">Passionate Front-End Developer | Creating Engaging Web Experiences</h3>
-
+<img align="right" alt="programming" width="450" src="https://github.com/EsakkiBalaji/EsakkiBalaji/assets/152501485/2b02067c-b524-46ae-948f-32ce4b43232e">
 
 
 [![](https://visitcount.itsvg.in/api?id=EsakkiBalaji&icon=0&color=1)](https://visitcount.itsvg.in)
